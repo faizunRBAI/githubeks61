@@ -1,4 +1,4 @@
-name: Destroy — githubeks61
+name: Destroy — githubeks61-dev
 
 on:
   workflow_dispatch:

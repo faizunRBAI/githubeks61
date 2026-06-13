@@ -1,4 +1,4 @@
-name: Deploy — githubeks61
+name: Deploy — githubeks61-dev
 
 on:
   workflow_dispatch:
